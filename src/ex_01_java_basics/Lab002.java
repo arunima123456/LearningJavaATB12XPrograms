@@ -1,10 +1,8 @@
 package ex_01_java_basics;
 
-public class HelloWorld
+public class Lab002
 {
     public static void main(String[] args) {
-        System.out.println("Hello World");
-
-
+        System.out.println("hi I am arunima");
     }
 }
