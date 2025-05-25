@@ -1,4 +1,6 @@
 package ex_01_java_basics;
 
-public class $arunima {
+public class $arunima
+{
+
 }
